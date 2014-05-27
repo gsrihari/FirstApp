@@ -1,6 +1,6 @@
 package net.steveperkins.fitnessjiffy.controller;
 
-import net.steveperkins.fitnessjiffy.etl.writer.PostgresWriter;
+import net.steveperkins.fitnessjiffy.domain.*;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
