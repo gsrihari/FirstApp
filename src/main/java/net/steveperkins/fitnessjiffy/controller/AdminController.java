@@ -1,6 +1,5 @@
 package net.steveperkins.fitnessjiffy.controller;
 
-import net.steveperkins.fitnessjiffy.etl.model.Datastore;
 import net.steveperkins.fitnessjiffy.etl.writer.PostgresWriter;
 
 import org.springframework.beans.factory.annotation.Autowired;
